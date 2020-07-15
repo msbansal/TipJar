@@ -24,6 +24,7 @@ The following **additional** features are implemented:
 - [x] Added a launch screen to create a good first impression of the app.
 - [x] Tested app using the dark mode feature of iOS to make sure no field is invisible due to the change in color scheme.
 - [x] Introduced UI changes like a gradient background.
+- [x] Added an App Icon.
 
 ## Video Walkthrough
 
